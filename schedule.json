@@ -1,0 +1,92 @@
+[
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android cơ bản",
+        "class": "CP17316",
+        "room": "P302",
+        "schoolShift": "Ca 2",
+        "auditorium": "TVB",
+        "teacher": "sondt32",
+        "learnDay": "11-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android Networking",
+        "class": "CP17307",
+        "room": "P304",
+        "schoolShift": "Ca 6",
+        "auditorium": "TVB",
+        "teacher": "linhhn13",
+        "learnDay": "13-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android cơ bản",
+        "class": "CP17316",
+        "room": "P302",
+        "schoolShift": "Ca 2",
+        "auditorium": "TVB",
+        "teacher": "sondt32",
+        "learnDay": "15-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Khởi sự doanh nghiệp",
+        "class": "CP17311",
+        "room": "P302",
+        "schoolShift": "Ca 1",
+        "auditorium": "Google meet",
+        "teacher": "lambt10",
+        "learnDay": "17-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android cơ bản",
+        "class": "CP17316",
+        "room": "P302",
+        "schoolShift": "Ca 2",
+        "auditorium": "TVB",
+        "teacher": "sondt32",
+        "learnDay": "18-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android cơ bản",
+        "class": "CP17316",
+        "room": "P302",
+        "schoolShift": "Ca 2",
+        "auditorium": "TVB",
+        "teacher": "sondt32",
+        "learnDay": "19-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android Networking",
+        "class": "CP17307",
+        "room": "P304",
+        "schoolShift": "Ca 6",
+        "auditorium": "TVB",
+        "teacher": "linhhn13",
+        "learnDay": "21-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android Networking",
+        "class": "CP17307",
+        "room": "P304",
+        "schoolShift": "Ca 6",
+        "auditorium": "TVB",
+        "teacher": "linhhn13",
+        "learnDay": "22-9-2023"
+    },
+    {
+        "idUser": "64e4e2021f020c771d6a8838",
+        "subject": "Android Networking",
+        "class": "CP17307",
+        "room": "P304",
+        "schoolShift": "Ca 6",
+        "auditorium": "TVB",
+        "teacher": "linhhn13",
+        "learnDay": "25-9-2023"
+    }
+]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64e4e2021f020c771d6a8838"
+  },
+  "name": "Việt Anh Nguyễn",
+  "email": "mavral03@gmail.com",
+  "photo": "https://lh3.googleusercontent.com/a/AAcHTtf1x--BUA18koxEpnGHlDwLxXTbIq3ihtVh1F86Wii5oA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e4e3a4714ce01f344106e6"
+  },
+  "name": "anhnvph 2 5 9 7 1 fplhn",
+  "email": "anhnvph25971@fpt.edu.vn",
+  "photo": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5b0dc7a762b48cd2b51a6"
+  },
+  "name": "Việt Anh Nguyễn",
+  "email": "anhnv6083@gmail.com",
+  "photo": "",
+  "createdAt": {
+    "$date": "2023-08-23T07:10:20.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-23T07:10:20.374Z"
+  },
+  "__v": 0
+}]
